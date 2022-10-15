@@ -3,10 +3,6 @@
 
 Written in Python using Pygame and Tkinter.
 
-**DISCLAIMER 1:** These projects were coded up a couple of years ago, and are extremely non-representative of my skills today. I do **not** recommend looking at the code.
-
-**DISCLAIMER 2:** Some of these projects were written using Tkinter, which was a poor choice. Tkinter is intended for developing GUI's and keeps track of every single object drawn onto the screen. I recommend using Pygame for simple projects like these.
-
 **Projects in this repository:**
 - **Fractals**
   - [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake)
